@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleCalculator/ConsoleCalculator.csproj" Id="8eed78c0-e6d9-4a88-9a22-eb518cd0ebc1" />
+  <Project Path="vizgalova_calculator_2pr/vizgalova_calculator_2pr.csproj" Id="ad05a336-7201-4698-83f5-71b503324764" />
+  <Project Path="vizgalova_library1/vizgalova_library1.csproj" Id="160ddb42-5b46-4e9d-b3e1-e0b261851df7" />
+  <Project Path="vizgalova_tests/vizgalova_tests.csproj" Id="81e650ac-db1e-47df-ad96-45b03d2d1483" />
+</Solution>
